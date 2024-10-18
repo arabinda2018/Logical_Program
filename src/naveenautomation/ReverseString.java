@@ -5,7 +5,7 @@ public class ReverseString {
 	public static void main(String[] args) {
 		
 		//Reverse a String
-		//diff bw string and stringbuffer
+		//difference  between string and stringbuffer
 		//do we have revese function in String
 		String s ="selenium";
 		//1.Using for loop
