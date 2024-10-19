@@ -1,8 +1,7 @@
 package arrays;
 
 public class A {
-	public void m2(){
-	}
+	
 public static void main(String[] args) {
 	
 	Object[]a= {10,20,30,10,20,true,true,false};
